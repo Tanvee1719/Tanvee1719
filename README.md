@@ -24,6 +24,6 @@
 
 ### Some of my GitHub Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ashish-agr&show_icons=true&theme=dark&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-agr&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanvee1719&show_icons=true&theme=dark&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvee1719&theme=dark">
 </p>
